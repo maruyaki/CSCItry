@@ -1,0 +1,16 @@
+C:\Users\iax20\source\repos\CSCItry\CSCItry.console\bin\Debug\net5.0\CSCItry.console.exe
+C:\Users\iax20\source\repos\CSCItry\CSCItry.console\bin\Debug\net5.0\CSCItry.console.deps.json
+C:\Users\iax20\source\repos\CSCItry\CSCItry.console\bin\Debug\net5.0\CSCItry.console.runtimeconfig.json
+C:\Users\iax20\source\repos\CSCItry\CSCItry.console\bin\Debug\net5.0\CSCItry.console.runtimeconfig.dev.json
+C:\Users\iax20\source\repos\CSCItry\CSCItry.console\bin\Debug\net5.0\CSCItry.console.dll
+C:\Users\iax20\source\repos\CSCItry\CSCItry.console\bin\Debug\net5.0\ref\CSCItry.console.dll
+C:\Users\iax20\source\repos\CSCItry\CSCItry.console\bin\Debug\net5.0\CSCItry.console.pdb
+C:\Users\iax20\source\repos\CSCItry\CSCItry.console\obj\Debug\net5.0\CSCItry.console.csproj.AssemblyReference.cache
+C:\Users\iax20\source\repos\CSCItry\CSCItry.console\obj\Debug\net5.0\CSCItry.console.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\iax20\source\repos\CSCItry\CSCItry.console\obj\Debug\net5.0\CSCItry.console.AssemblyInfoInputs.cache
+C:\Users\iax20\source\repos\CSCItry\CSCItry.console\obj\Debug\net5.0\CSCItry.console.AssemblyInfo.cs
+C:\Users\iax20\source\repos\CSCItry\CSCItry.console\obj\Debug\net5.0\CSCItry.console.csproj.CoreCompileInputs.cache
+C:\Users\iax20\source\repos\CSCItry\CSCItry.console\obj\Debug\net5.0\CSCItry.console.dll
+C:\Users\iax20\source\repos\CSCItry\CSCItry.console\obj\Debug\net5.0\ref\CSCItry.console.dll
+C:\Users\iax20\source\repos\CSCItry\CSCItry.console\obj\Debug\net5.0\CSCItry.console.pdb
+C:\Users\iax20\source\repos\CSCItry\CSCItry.console\obj\Debug\net5.0\CSCItry.console.genruntimeconfig.cache
